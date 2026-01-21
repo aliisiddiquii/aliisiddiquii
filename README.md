@@ -108,6 +108,3 @@ Developed a data-driven real estate investment analytics platform that evaluates
 
 ---
 
-⭐ *If you like my work, consider starring the repositories!*  
-🚀 *Always learning. Always building.*
-
