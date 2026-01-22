@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Seaborn-3B4C6B?style=for-the-badge"/>
 </p>
 
-### 🧠 Machine Learning & AI (Supporting Skills)
+### 🧠 Machine Learning & AI 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
