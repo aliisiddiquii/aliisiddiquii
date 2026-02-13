@@ -86,17 +86,8 @@ ThreatWatch AI an AI-powered real-time surveillance system that focuses on crowd
  🔹**Real Estate Investment Analytics** -- 
 Developed a data-driven real estate investment analytics platform that evaluates property pricing trends, location based performance, and ROI metrics using exploratory data analysis and visualization techniques to support informed investment decision-making
 
-🔹**Meat Shop Website** --
-· Designed and implemented a responsive e-commerce website for online meat ordering with product catalog browsing, cart functionality UI, and a PHP-based backend for handling server-side operations.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliisiddiquii&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliisiddiquii&layout=compact&theme=tokyonight" height="165"/>
-</p>
+🔹**Perishable Goods Website** --
+· Designed and implemented a responsive e-commerce website for online Perishable Goods ordering with product catalog browsing, cart functionality UI, and a PHP-based backend for handling server-side operations.
 
 ---
 
